@@ -1,0 +1,1 @@
+document.querySelector("#delete").addEventListener("click", function ())
